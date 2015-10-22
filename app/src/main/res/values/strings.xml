@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EjemploNavDrawer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="drawer_open">Abierto</string>
+    <string name="drawer_close">Cerrado</string>
+
+    <string name="titulo_mercurio">Mercurio</string>
+    <string name="info_mercurio">Mercurio es el planeta del Sistema Solar más próximo al Sol y el más pequeño. Forma parte de los denominados planetas interiores o rocosos y carece de satélites. Se conocía muy poco sobre su superficie hasta que fue enviada la sonda planetaria Mariner 10 y se hicieron observaciones con radar y radiotelescopios.</string>
+
+    <string name="titulo_venus">Venus</string>
+    <string name="info_venus">Venus es el segundo planeta del Sistema Solar en orden de distancia desde el Sol, y el tercero en cuanto a tamaño, de menor a mayor. Recibe su nombre en honor a Venus, la diosa romana del amor. Se trata de un planeta de tipo rocoso y terrestre, llamado con frecuencia el planeta hermano de la Tierra, ya que ambos son similares en cuanto a tamaño, masa y composición, aunque totalmente diferentes en cuestiones térmicas y atmosféricas.</string>
+
+    <string name="titulo_tierra">Tierra</string>
+    <string name="info_tierra">La Tierra (del latín Terra,16 deidad romana equivalente a Gea, diosa griega de la feminidad y la fecundidad) es un planeta del Sistema Solar que gira alrededor de su estrella -el Sol- en la tercera órbita más interna. Es el más denso y el quinto mayor de los ocho planetas del Sistema Solar. También es el mayor de los cuatro terrestres.</string>
+
+    <string name="titulo_marte">Marte</string>
+    <string name="info_marte">Marte es el cuarto planeta del Sistema Solar más cercano al Sol. Llamado así por el dios de la guerra de la mitología romana Marte, recibe a veces el apodo de planeta rojo debido a la apariencia rojiza que le confiere el óxido de hierro que domina su superficie. Tiene una atmósfera delgada formada por dióxido de carbono, y dos satélites: Fobos y Deimos.</string>
+
+    <string name="titulo_jupiter">Júpiter</string>
+    <string name="info_jupiter">Júpiter es el quinto planeta del Sistema Solar. Forma parte de los denominados planetas exteriores o gaseosos. Recibe su nombre del dios romano Júpiter (Zeus en la mitología griega).Se trata del planeta que ofrece un mayor brillo a lo largo del año dependiendo de su fase.</string>
+    <string name="act2">act2</string>
+    <string name="act1">act1</string>
+
+</resources>

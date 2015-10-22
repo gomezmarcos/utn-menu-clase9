@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+<item android:id="@+id/drawer_item_mercurio" android:checked="true" android:title="Mercurio"/>
+<item android:id="@+id/drawer_item_venus" android:title="Venus"/>
+<item android:id="@+id/drawer_item_tierra" android:title="Tierra"/>
+<item android:id="@+id/drawer_item_marte" android:title="Marte"/>
+<item android:id="@+id/drawer_item_jupiter" android:title="Jupiter"/>
+</group>
+</menu>

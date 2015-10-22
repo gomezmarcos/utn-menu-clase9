@@ -1,0 +1,9 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- aca estaba Theme.AppCompat.Light.DarkActionBar y lo sacamos para poder usar toolbar y no actionBar"
+        Customize your theme here. -->
+    </style>
+
+</resources>
